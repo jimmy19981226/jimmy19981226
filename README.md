@@ -67,7 +67,7 @@
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/jimmy19981226/jimmy19981226/output/snake.svg)
+<img src="https://raw.githubusercontent.com/jimmy19981226/jimmy19981226/output/snake.svg" alt="Snake animation" />
 
 ###
 
