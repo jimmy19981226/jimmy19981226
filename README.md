@@ -1,5 +1,12 @@
-Hi there! 👋 I'm James Chen<br>- 🔭 I’m currently working as Student Developer @ Brigham Young University–Hawaii<br>- 📫 How to reach me: jimmy19981226@gmail.com<br>- ⚡ Fun fact: I'm embarking on a journey of discovery, unraveling the wonders of the digital realm through the language of code<br><br>Feel free to explore my GitHub repositories and don't hesitate to reach out if you have any questions or would like to connect. I'm always open to interesting discussions and new opportunities.<br><br>Let's make the world a better place through technology and innovation!
+Hi there! 👋 I'm James Chen
 
+- 🔭 I’m currently working as a Student Developer at Brigham Young University–Hawaii
+- 📫 How to reach me: [jimmy19981226@gmail.com](mailto:jimmy19981226@gmail.com)
+- ⚡ Fun fact: I'm embarking on a journey of discovery, unraveling the wonders of the digital realm through the language of code
+
+Feel free to explore my GitHub repositories and don't hesitate to reach out if you have any questions or would like to connect. I'm always open to interesting discussions and new opportunities.
+
+Let's make the world a better place through technology and innovation!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100002197589321) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/chen_zhi_jun/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chen1226/) 
