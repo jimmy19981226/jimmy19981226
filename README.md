@@ -65,10 +65,10 @@ Let's make the world a better place through technology and innovation!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy19981226&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Chih-Chun-Chen&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=jimmy19981226&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Chih-Chun-Chen&limit=5&theme=nord&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=jimmy19981226&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
