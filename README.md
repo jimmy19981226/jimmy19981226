@@ -38,3 +38,9 @@ I'm Chih-Chun (James) Chen, a **Master's student in Computer Science at Brigham 
     </td>
   </tr>
 </table>
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jimmy19981226&theme=dark&hide_border=true&background=0D1117&ring=14B8A6&fire=F59E0B&currStreakLabel=F8FAFC&sideLabels=F8FAFC&dates=94A3B8" alt="GitHub activity streak" />
+</p>
