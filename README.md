@@ -14,31 +14,6 @@ I'm Chih-Chun (James) Chen, a **Master's student in Computer Science at Brigham 
 - Interested in full-stack, mobile, and research-informed computing work
 - Open to collaboration, research opportunities, and meaningful projects
 
-## Current Focus
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>What I'm Doing</h3>
-      <ul>
-        <li>Pursuing graduate study in computer science at BYU</li>
-        <li>Building software and research projects with real-world impact</li>
-        <li>Growing across modern development, data, and intelligent systems</li>
-      </ul>
-
-    </td>
-    <td width="50%" valign="top">
-      <h3>What You Can Expect Here</h3>
-      <ul>
-        <li>Personal projects and experiments</li>
-        <li>Work shaped by both engineering and research</li>
-        <li>Clear, practical software built with curiosity and care</li>
-      </ul>
-
-    </td>
-  </tr>
-</table>
-
 ## GitHub Activity
 
 <p align="center">
