@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f766e,50:14b8a6,100:f59e0b&text=James%20Chen&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=MS%20Computer%20Science%20Student%20at%20Brigham%20Young%20University&descAlignY=60&animation=fadeIn" alt="James Chen banner" />
-</p>
+<h1 align="center">James Chen</h1>
 
 <p align="center">
   <strong>Graduate student, builder, and researcher creating practical software with care.</strong>
@@ -18,8 +16,4 @@ I'm Chih-Chun (James) Chen, a **Master's student in Computer Science at Brigham 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jimmy19981226&theme=dark&hide_border=true&background=0D1117&ring=14B8A6&fire=F59E0B&currStreakLabel=F8FAFC&sideLabels=F8FAFC&dates=94A3B8" alt="GitHub activity streak" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0f766e,50:14b8a6,100:f59e0b" alt="Footer banner" />
 </p>
