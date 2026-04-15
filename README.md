@@ -1,74 +1,96 @@
-Hi there! 👋 I'm James Chen
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f766e,50:14b8a6,100:f59e0b&text=James%20Chen&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Student%20Developer%20at%20Brigham%20Young%20University%E2%80%93Hawaii&descAlignY=60&animation=fadeIn" alt="James Chen banner" />
+</p>
 
-- 🔭 I’m currently working as a Student Developer at Brigham Young University–Hawaii
-- 📫 How to reach me: [jimmy19981226@gmail.com](mailto:jimmy19981226@gmail.com)
-- ⚡ Fun fact: I'm embarking on a journey of discovery, unraveling the wonders of the digital realm through the language of code
+<p align="center">
+  <strong>Building practical software with curiosity, creativity, and care.</strong>
+</p>
 
-Feel free to explore my GitHub repositories and don't hesitate to reach out if you have any questions or would like to connect. I'm always open to interesting discussions and new opportunities.
+<p align="center">
+  <a href="mailto:jimmy19981226@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f766e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/chen1226/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-f59e0b?style=for-the-badge&logo=github&logoColor=white" alt="Open to collaboration badge" />
+</p>
 
-Let's make the world a better place through technology and innovation!
+## About Me
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chen1226/) 
+I'm James Chen, a student developer at **Brigham Young University-Hawaii** who enjoys turning ideas into useful, polished software. I like learning by building, solving real problems, and growing across web, mobile, and software development.
 
-# 💻 Tech Stack:
-###
+- Working on projects that sharpen both technical depth and product thinking
+- Interested in full-stack development, app development, and thoughtful user experiences
+- Always open to meeting people, collaborating, and exploring new opportunities
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-</div>
+## Current Focus
 
-###
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jimmy19981226&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jimmy19981226&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy19981226&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>What I'm Doing</h3>
+      <ul>
+        <li>Building and improving software as a student developer</li>
+        <li>Strengthening my foundation across modern development tools</li>
+        <li>Exploring ways technology can create meaningful impact</li>
+      </ul>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jimmy19981226&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+    </td>
+    <td width="50%" valign="top">
+      <h3>What You Can Expect Here</h3>
+      <ul>
+        <li>Personal projects and experiments</li>
+        <li>Work across multiple languages and platforms</li>
+        <li>A developer who is always learning and shipping</li>
+      </ul>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jimmy19981226&limit=5&theme=nord&combine_all_yearly_contributions=true)
+    </td>
+  </tr>
+</table>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift badge" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C badge" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ badge" />
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# badge" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js badge" />
+  <img src="https://img.shields.io/badge/Express-222222?style=for-the-badge&logo=express&logoColor=white" alt="Express badge" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git badge" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity badge" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android badge" />
+  <img src="https://img.shields.io/badge/Apple-111111?style=for-the-badge&logo=apple&logoColor=white" alt="Apple badge" />
+</p>
+
+## GitHub Snapshot
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jimmy19981226&show_icons=true&theme=algolia&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy19981226&layout=compact&theme=algolia&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=jimmy19981226&theme=algolia&hide_border=true" alt="GitHub streak" />
+</p>
+
+## Let's Connect
+
+If you're working on something interesting, want to collaborate, or just want to say hi, feel free to reach out. I'm always happy to connect with fellow builders and learners.
