@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f766e,50:14b8a6,100:f59e0b&text=James%20Chen&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Student%20Developer%20at%20Brigham%20Young%20University%E2%80%93Hawaii&descAlignY=60&animation=fadeIn" alt="James Chen banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f766e,50:14b8a6,100:f59e0b&text=Chih-Chun%20(James)%20Chen&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=MS%20Computer%20Science%20Student%20at%20Brigham%20Young%20University&descAlignY=60&animation=fadeIn" alt="Chih-Chun James Chen banner" />
 </p>
 
 <p align="center">
-  <strong>Building practical software with curiosity, creativity, and care.</strong>
+  <strong>Graduate student, builder, and researcher creating practical software with care.</strong>
 </p>
 
 <p align="center">
@@ -18,11 +18,11 @@
 
 ## About Me
 
-I'm James Chen, a student developer at **Brigham Young University-Hawaii** who enjoys turning ideas into useful, polished software. I like learning by building, solving real problems, and growing across web, mobile, and software development.
+I'm Chih-Chun (James) Chen, a **Master's student in Computer Science at Brigham Young University** based in **Provo, Utah**. I enjoy building useful software, exploring research-driven ideas, and turning complex problems into products people can actually use.
 
-- Working on projects that sharpen both technical depth and product thinking
-- Interested in full-stack development, app development, and thoughtful user experiences
-- Always open to meeting people, collaborating, and exploring new opportunities
+- Focused on software engineering, intelligent systems, and thoughtful product development
+- Interested in full-stack, mobile, and research-informed computing work
+- Open to collaboration, research opportunities, and meaningful projects
 
 ## Current Focus
 
@@ -31,9 +31,9 @@ I'm James Chen, a student developer at **Brigham Young University-Hawaii** who e
     <td width="50%" valign="top">
       <h3>What I'm Doing</h3>
       <ul>
-        <li>Building and improving software as a student developer</li>
-        <li>Strengthening my foundation across modern development tools</li>
-        <li>Exploring ways technology can create meaningful impact</li>
+        <li>Pursuing graduate study in computer science at BYU</li>
+        <li>Building software and research projects with real-world impact</li>
+        <li>Growing across modern development, data, and intelligent systems</li>
       </ul>
 
     </td>
@@ -41,13 +41,17 @@ I'm James Chen, a student developer at **Brigham Young University-Hawaii** who e
       <h3>What You Can Expect Here</h3>
       <ul>
         <li>Personal projects and experiments</li>
-        <li>Work across multiple languages and platforms</li>
-        <li>A developer who is always learning and shipping</li>
+        <li>Work shaped by both engineering and research</li>
+        <li>Clear, practical software built with curiosity and care</li>
       </ul>
 
     </td>
   </tr>
 </table>
+
+## Research Highlight
+
+- Co-authored *Current challenges and opportunities in active and passive data collection for mobile health sensing: a scoping review*, published in **JAMIA Open** in 2025
 
 ## Tech Stack
 
