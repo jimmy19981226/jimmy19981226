@@ -6,16 +6,6 @@
   <strong>Graduate student, builder, and researcher creating practical software with care.</strong>
 </p>
 
-<p align="center">
-  <a href="mailto:jimmy19981226@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f766e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/chen1226/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-f59e0b?style=for-the-badge&logo=github&logoColor=white" alt="Open to collaboration badge" />
-</p>
-
 ## About Me
 
 I'm Chih-Chun (James) Chen, a **Master's student in Computer Science at Brigham Young University** based in **Provo, Utah**. I enjoy building useful software, exploring research-driven ideas, and turning complex problems into products people can actually use.
@@ -94,7 +84,3 @@ I'm Chih-Chun (James) Chen, a **Master's student in Computer Science at Brigham 
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=jimmy19981226&theme=algolia&hide_border=true" alt="GitHub streak" />
 </p>
-
-## Let's Connect
-
-If you're working on something interesting, want to collaborate, or just want to say hi, feel free to reach out. I'm always happy to connect with fellow builders and learners.
