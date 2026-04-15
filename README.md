@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f766e,50:14b8a6,100:f59e0b&text=Chih-Chun%20(James)%20Chen&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=MS%20Computer%20Science%20Student%20at%20Brigham%20Young%20University&descAlignY=60&animation=fadeIn" alt="Chih-Chun James Chen banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f766e,50:14b8a6,100:f59e0b&text=James%20Chen&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=MS%20Computer%20Science%20Student%20at%20Brigham%20Young%20University&descAlignY=60&animation=fadeIn" alt="James Chen banner" />
 </p>
 
 <p align="center">
