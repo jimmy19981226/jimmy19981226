@@ -14,29 +14,6 @@ I'm Chih-Chun (James) Chen, a **Master's student in Computer Science at Brigham 
 - Interested in full-stack, mobile, and research-informed computing work
 - Open to collaboration, research opportunities, and meaningful projects
 
-## Now
-
-- Building projects that connect AI, software engineering, and practical user workflows
-- Exploring research-minded systems work in machine learning and intelligent tools
-- Turning class, lab, and personal work into polished projects worth sharing
-
-## Featured Projects
-
-<p align="center">
-  <a href="https://github.com/jimmy19981226/ai-audio-transcriber">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimmy19981226&repo=ai-audio-transcriber&hide_border=false&bg_color=0D1117&border_color=334155&title_color=F8FAFC&text_color=94A3B8&icon_color=14B8A6" alt="ai-audio-transcriber repo card" />
-  </a>
-  <a href="https://github.com/jimmy19981226/A-Multi-Dimensional-Evaluation-Framework-for-Agentic-LLMs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimmy19981226&repo=A-Multi-Dimensional-Evaluation-Framework-for-Agentic-LLMs&hide_border=false&bg_color=0D1117&border_color=334155&title_color=F8FAFC&text_color=94A3B8&icon_color=14B8A6" alt="Agentic LLM evaluation repo card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/jimmy19981226/Spiral-Research-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimmy19981226&repo=Spiral-Research-Application&hide_border=false&bg_color=0D1117&border_color=334155&title_color=F8FAFC&text_color=94A3B8&icon_color=14B8A6" alt="Spiral Research Application repo card" />
-  </a>
-</p>
-
 ## GitHub Activity
 
 <p align="center">
