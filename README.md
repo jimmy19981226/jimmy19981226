@@ -1,25 +1,82 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f766e,50:14b8a6,100:f59e0b&text=James%20Chen&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=MS%20Computer%20Science%20Student%20at%20Brigham%20Young%20University&descAlignY=60&animation=fadeIn" alt="James Chen banner" />
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>Graduate student, builder, and researcher creating practical software with care.</strong>
-</p>
+# James Chen
 
-## About Me
+**LLM evaluation · Uncertainty estimation · Applied AI**
 
-I'm Chih-Chun (James) Chen, a **Master's student in Computer Science at Brigham Young University** based in **Provo, Utah**. I enjoy building useful software, exploring research-driven ideas, and turning complex problems into products people can actually use.
+M.S. Computer Science student at Brigham Young University · Provo, Utah
 
-- Focused on software engineering, intelligent systems, and thoughtful product development
-- Interested in full-stack, mobile, and research-informed computing work
-- Open to collaboration, research opportunities, and meaningful projects
+**Seeking full-time AI / Machine Learning Engineer opportunities**
 
-## GitHub Activity
+[LinkedIn](https://www.linkedin.com/in/chen1226/) · [Selected projects](#selected-projects) · [All repositories](https://github.com/jimmy19981226?tab=repositories)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jimmy19981226&theme=dark&hide_border=true&background=0D1117&ring=14B8A6&fire=F59E0B&currStreakLabel=F8FAFC&sideLabels=F8FAFC&dates=94A3B8" alt="GitHub activity streak" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0f766e,50:14b8a6,100:f59e0b" alt="Footer banner" />
-</p>
+---
+
+I'm **Chih-Chun (James) Chen**, a computer science graduate student interested in reliable AI systems. My portfolio explores how to evaluate language models, select useful training data, and connect AI with testable application logic.
+
+## Selected projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/jimmy19981226/A-Multi-Dimensional-Evaluation-Framework-for-Agentic-LLMs">LLM Reliability Benchmarks</a></h3>
+
+<p><strong>Research · Python · PyTorch · Transformers</strong></p>
+
+<p>A local framework comparing base and instruction-tuned models across conversation, tool planning, safety, and task fidelity. Includes validated judge outputs, auditable reports, and a consistency review of the presentation-reported results.</p>
+
+<p><a href="https://github.com/jimmy19981226/A-Multi-Dimensional-Evaluation-Framework-for-Agentic-LLMs/blob/main/docs/METHODOLOGY.md">Methodology</a> · <a href="https://github.com/jimmy19981226/A-Multi-Dimensional-Evaluation-Framework-for-Agentic-LLMs/blob/main/docs/RESULTS.md">Results &amp; validation</a></p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/jimmy19981226/bayesian-trajectory-selection">Bayesian Trajectory Selection</a></h3>
+
+<p><strong>Research · MC dropout · Mutual information · LoRA</strong></p>
+
+<p>Uncertainty-based selection of teacher-generated math reasoning data for a smaller language model. Compares predictive entropy with mutual information, with an offline demo, a reconstructed training pipeline, and documented historical results.</p>
+
+<p><a href="https://github.com/jimmy19981226/bayesian-trajectory-selection/blob/main/docs/METHOD.md">Method</a> · <a href="https://github.com/jimmy19981226/bayesian-trajectory-selection/blob/main/docs/RESULTS.md">Results &amp; limitations</a></p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/jimmy19981226/stock-tracker">AI Stock Studio</a></h3>
+
+<p><strong>Team project · FastAPI · SwiftUI · React</strong></p>
+
+<p>A portfolio-aware assistant for Taiwan and US equities. Typed tools connect account-scoped queries with FIFO accounting and dated performance calculations; the iOS app asks users to review proposed record changes before saving.</p>
+
+<p><a href="https://github.com/jimmy19981226/stock-tracker#ai-architecture">Architecture</a> · <a href="https://github.com/jimmy19981226/stock-tracker/blob/main/docs/GALLERY.md">Product gallery</a></p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/jimmy19981226/ai-audio-transcriber">AI Audio Transcriber</a></h3>
+
+<p><strong>Fork · Python · faster-whisper · Gradio</strong></p>
+
+<p>Local speech recognition with LLM-agent cleanup, summaries, optional translation, and document exports. Extends <a href="https://github.com/kennionblack/ai-audio-transcriber">the upstream project</a> with stronger failure handling, bounded agent invocations, and regression tests.</p>
+
+<p><a href="https://github.com/jimmy19981226/ai-audio-transcriber#pipeline">Pipeline</a> · <a href="https://github.com/jimmy19981226/ai-audio-transcriber/blob/main/docs/ENGINEERING.md">Engineering notes</a></p>
+
+</td>
+</tr>
+</table>
+
+**Also in the portfolio — [CalmCloud](https://github.com/jimmy19981226/CalmCloud):** a Kotlin Android prototype for mood, sleep, and stress tracking, with charts and optional AI chat. Focuses on ordered conversation requests, network-call lifecycle, and documented backend contracts.
+
+## Technical focus
+
+| Area | Technologies and concepts used in these projects |
+| :--- | :--- |
+| **Models & evaluation** | Python, PyTorch, Transformers, NumPy, PEFT/LoRA, LLM-as-judge evaluation, MC dropout |
+| **Application integration** | FastAPI, tool calling, streaming chat, React, SwiftUI, Kotlin, Retrofit |
+| **Data & verification** | SQLite, PostgreSQL, pytest, unittest, JUnit, GitHub Actions |
+
+The repositories include setup instructions, architecture notes, tests, and explicit limitations. Research results are labeled with their evidence and reproduction status; team projects and forks retain contributor credit.
