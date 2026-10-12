@@ -69,8 +69,6 @@ I'm **Chih-Chun (James) Chen**, a computer science graduate student interested i
 </tr>
 </table>
 
-**Also in the portfolio — [CalmCloud](https://github.com/jimmy19981226/CalmCloud):** a Kotlin Android prototype for mood, sleep, and stress tracking, with charts and optional AI chat. Focuses on ordered conversation requests, network-call lifecycle, and documented backend contracts.
-
 ## Technical focus
 
 | Area | Technologies and concepts used in these projects |
