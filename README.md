@@ -2,11 +2,11 @@
 
 # James Chen
 
-**LLM evaluation · Uncertainty estimation · Applied AI**
+**Software engineering · Applied AI · Machine learning**
 
 M.S. Computer Science student at Brigham Young University · Provo, Utah
 
-**Seeking full-time AI / Machine Learning Engineer opportunities**
+**Open to full-time Software Engineering and AI/ML Engineering roles**
 
 [LinkedIn](https://www.linkedin.com/in/chen1226/) · [Selected projects](#selected-projects) · [All repositories](https://github.com/jimmy19981226?tab=repositories)
 
@@ -14,7 +14,7 @@ M.S. Computer Science student at Brigham Young University · Provo, Utah
 
 ---
 
-I'm **Chih-Chun (James) Chen**, a computer science graduate student interested in reliable AI systems. My portfolio explores how to evaluate language models, select useful training data, and connect AI with testable application logic.
+I'm **Chih-Chun (James) Chen**, a computer science graduate student interested in reliable software and AI systems. My portfolio spans backend services, web and mobile applications, and machine learning research, with a focus on clear interfaces, testable logic, and documented limitations.
 
 ## Selected projects
 
