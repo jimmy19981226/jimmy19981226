@@ -1,80 +1,67 @@
-<div align="center">
-
 # James Chen
 
-**Software engineering · Applied AI · Machine learning**
+**Software Engineering · Applied AI · Machine Learning**
 
-M.S. Computer Science student at Brigham Young University · Provo, Utah
+I'm Chih-Chun (James) Chen, an M.S. Computer Science student at Brigham Young University in Provo, Utah. I build applications and study how to evaluate and improve language-model behavior.
 
-**Open to full-time Software Engineering and AI/ML Engineering roles**
+**Open to full-time Software Engineering and AI/ML Engineering roles.**
 
-[LinkedIn](https://www.linkedin.com/in/chen1226/) · [Selected projects](#selected-projects) · [All repositories](https://github.com/jimmy19981226?tab=repositories)
+[Connect on LinkedIn](https://www.linkedin.com/in/chen1226/) · [Browse all repositories](https://github.com/jimmy19981226?tab=repositories)
 
-</div>
+## Start with these projects
 
----
+For **backend, full-stack, or mobile engineering**, start with AI Stock Studio. For **AI/ML engineering or research**, start with the evaluation framework and Bayesian trajectory selection. Each repository links its design choices to code, tests, and current limitations.
 
-I'm **Chih-Chun (James) Chen**, a computer science graduate student interested in reliable software and AI systems. My portfolio spans backend services, web and mobile applications, and machine learning research, with a focus on clear interfaces, testable logic, and documented limitations.
+### [AI Stock Studio](https://github.com/jimmy19981226/stock-tracker)
 
-## Selected projects
+**Personal project · Python / FastAPI · SwiftUI · React · SQLAlchemy**
 
-<table>
-<tr>
-<td width="50%" valign="top">
+A Taiwan/US portfolio application with a native iOS client, a read-only web dashboard, and an AI assistant. Backend services apply Taiwan moving-average and US FIFO accounting; assistant tools propose changes that the user reviews before saving.
 
-<h3><a href="https://github.com/jimmy19981226/A-Multi-Dimensional-Evaluation-Framework-for-Agentic-LLMs">LLM Reliability Benchmarks</a></h3>
+Inspect the accounting regression cases, the separation between AI proposals and record writes, and recovery after a mobile chat disconnect.
 
-<p><strong>Research · Python · PyTorch · Transformers</strong></p>
+[Product screenshots](https://github.com/jimmy19981226/stock-tracker#product-tour) · [Engineering decisions](https://github.com/jimmy19981226/stock-tracker#engineering-decisions) · [Code review guide](https://github.com/jimmy19981226/stock-tracker#review-guide)
 
-<p>A local framework comparing base and instruction-tuned models across conversation, tool planning, safety, and task fidelity. Includes validated judge outputs, auditable reports, and a consistency review of the presentation-reported results.</p>
+### [Agentic LLM Reliability Benchmarks](https://github.com/jimmy19981226/A-Multi-Dimensional-Evaluation-Framework-for-Agentic-LLMs)
 
-<p><a href="https://github.com/jimmy19981226/A-Multi-Dimensional-Evaluation-Framework-for-Agentic-LLMs/blob/main/docs/METHODOLOGY.md">Methodology</a> · <a href="https://github.com/jimmy19981226/A-Multi-Dimensional-Evaluation-Framework-for-Agentic-LLMs/blob/main/docs/RESULTS.md">Results &amp; validation</a></p>
+**Research implementation · Python · PyTorch · Transformers**
 
-</td>
-<td width="50%" valign="top">
+A framework comparing base and instruction-tuned models across conversation, tool planning, safety, and task fidelity. It validates judge outputs, records run metadata, and exports per-example results and summaries. CPU tests exercise reporting without running the large models.
 
-<h3><a href="https://github.com/jimmy19981226/bayesian-trajectory-selection">Bayesian Trajectory Selection</a></h3>
+The study's presentation-reported results are clearly separated from software validation; independent score reproduction remains pending.
 
-<p><strong>Research · MC dropout · Mutual information · LoRA</strong></p>
+[Evaluation design](https://github.com/jimmy19981226/A-Multi-Dimensional-Evaluation-Framework-for-Agentic-LLMs#evaluation-design) · [Results and evidence audit](https://github.com/jimmy19981226/A-Multi-Dimensional-Evaluation-Framework-for-Agentic-LLMs/blob/main/docs/RESULTS.md)
 
-<p>Uncertainty-based selection of teacher-generated math reasoning data for a smaller language model. Compares predictive entropy with mutual information, with an offline demo, a reconstructed training pipeline, and documented historical results.</p>
+### [Bayesian Trajectory Selection](https://github.com/jimmy19981226/bayesian-trajectory-selection)
 
-<p><a href="https://github.com/jimmy19981226/bayesian-trajectory-selection/blob/main/docs/METHOD.md">Method</a> · <a href="https://github.com/jimmy19981226/bayesian-trajectory-selection/blob/main/docs/RESULTS.md">Results &amp; limitations</a></p>
+**Research · NumPy · MC dropout · Mutual information · PEFT/LoRA**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+A study of uncertainty-based selection of teacher-generated math reasoning data. Includes a laptop demo, a reconstructed training pipeline, and tests for numerical scoring, candidate selection, and tiny-model behavior.
 
-<h3><a href="https://github.com/jimmy19981226/stock-tracker">AI Stock Studio</a></h3>
+The archived paper reports small accuracy differences. Original results have not been independently reproduced; the repository documents missing artifacts and reconstruction choices.
 
-<p><strong>Team project · FastAPI · SwiftUI · React</strong></p>
+[Offline demo](https://github.com/jimmy19981226/bayesian-trajectory-selection#quick-start) · [Method](https://github.com/jimmy19981226/bayesian-trajectory-selection/blob/main/docs/METHOD.md) · [Evidence and limitations](https://github.com/jimmy19981226/bayesian-trajectory-selection/blob/main/docs/RESULTS.md)
 
-<p>A portfolio-aware assistant for Taiwan and US equities. Typed tools connect account-scoped queries with FIFO accounting and dated performance calculations; the iOS app asks users to review proposed record changes before saving.</p>
+### [AI Audio Transcriber](https://github.com/jimmy19981226/ai-audio-transcriber)
 
-<p><a href="https://github.com/jimmy19981226/stock-tracker#ai-architecture">Architecture</a> · <a href="https://github.com/jimmy19981226/stock-tracker/blob/main/docs/GALLERY.md">Product gallery</a></p>
+**Fork and extensions · Python · faster-whisper · Gradio**
 
-</td>
-<td width="50%" valign="top">
+Local speech recognition followed by LLM cleanup, summaries, translation, and document export. This fork extends [kennionblack's upstream project](https://github.com/kennionblack/ai-audio-transcriber) with bounded agent execution, explicit failure propagation, and regression tests.
 
-<h3><a href="https://github.com/jimmy19981226/ai-audio-transcriber">AI Audio Transcriber</a></h3>
+[Example output](https://github.com/jimmy19981226/ai-audio-transcriber#example-workflow) · [Reliability review guide](https://github.com/jimmy19981226/ai-audio-transcriber#review-guide)
 
-<p><strong>Fork · Python · faster-whisper · Gradio</strong></p>
+### [CalmCloud](https://github.com/jimmy19981226/CalmCloud)
 
-<p>Local speech recognition with LLM-agent cleanup, summaries, optional translation, and document exports. Extends <a href="https://github.com/kennionblack/ai-audio-transcriber">the upstream project</a> with stronger failure handling, bounded agent invocations, and regression tests.</p>
+**Android client prototype · Kotlin · Retrofit · JUnit**
 
-<p><a href="https://github.com/jimmy19981226/ai-audio-transcriber#pipeline">Pipeline</a> · <a href="https://github.com/jimmy19981226/ai-audio-transcriber/blob/main/docs/ENGINEERING.md">Engineering notes</a></p>
+Mood, sleep, and stress tracking with visual summaries and an optional chat interface. The repository demonstrates Android screen/network integration and testable conversation request construction. Its backend and chat proxy are external dependencies.
 
-</td>
-</tr>
-</table>
+[Architecture and setup](https://github.com/jimmy19981226/CalmCloud#architecture) · [Client review guide](https://github.com/jimmy19981226/CalmCloud#review-guide)
 
 ## Technical focus
 
-| Area | Technologies and concepts used in these projects |
-| :--- | :--- |
-| **Models & evaluation** | Python, PyTorch, Transformers, NumPy, PEFT/LoRA, LLM-as-judge evaluation, MC dropout |
-| **Application integration** | FastAPI, tool calling, streaming chat, React, SwiftUI, Kotlin, Retrofit |
-| **Data & verification** | SQLite, PostgreSQL, pytest, unittest, JUnit, GitHub Actions |
+- **Applications:** Python, FastAPI, SwiftUI, React, Kotlin, Retrofit, SQLite, PostgreSQL.
+- **AI/ML:** PyTorch, Transformers, NumPy, PEFT/LoRA, tool calling, model evaluation, uncertainty estimation.
+- **Verification:** pytest, unittest, JUnit, native iOS tests, GitHub Actions, synthetic fixtures, and reproducible run metadata.
 
-The repositories include setup instructions, architecture notes, tests, and explicit limitations. Research results are labeled with their evidence and reproduction status; team projects and forks retain contributor credit.
+My project documentation emphasizes what runs today, how it is tested, and where the evidence stops. Forks retain upstream credit, and research results retain their source and reproduction status.
